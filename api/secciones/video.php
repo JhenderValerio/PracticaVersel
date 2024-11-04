@@ -1,11 +1,11 @@
 <?php
 /*****
-SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
+SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERÉS EN ESTA CATEGORÍA
 *****/
 
 $video = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+    "titulo" => "NUEVA PLATAFORMA DE VIDEO EN STREAMING REVOLUCIONA EL MERCADO",
+    "autor" => "video@uns",
+    "resumen" => "La plataforma ofrece contenido exclusivo y una experiencia personalizada, atrayendo a millones de suscriptores desde su lanzamiento.",
 ];
 ?>

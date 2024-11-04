@@ -1,11 +1,11 @@
 <?php
 /*****
-SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
+SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERÉS EN ESTA CATEGORÍA
 *****/
 
 $openstack = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+    "titulo" => "OPENSTACK LANZA NUEVAS MEJORAS EN SEGURIDAD Y RENDIMIENTO PARA 2024",
+    "autor" => "tecnologia@uns",
+    "resumen" => "La última versión de OpenStack incluye actualizaciones significativas en seguridad y herramientas de administración para optimizar el rendimiento de la nube.",
 ];
 ?>
